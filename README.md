@@ -34,7 +34,11 @@ Here's what the site looked like yesterday after spending a good 5+ hours on it.
 ![New Contacts](https://raw.githubusercontent.com/HEEM86/EW-Repsonsive-Site/master/assets/images/contact%20new.png)
 
 
+## Portfolio Update :heavy_exclamation_mark:
 
+The portfolio page has links to all of the projects, I've completed so far. Also, I have a link to my LinkedIN profile, that's been updated with my FullStack BootCamp experience.
+
+![Portfolio Updates](https://i.ibb.co/qFtczwb/portfolio-update.png)
 
 ## Conslusion :boom:
 
